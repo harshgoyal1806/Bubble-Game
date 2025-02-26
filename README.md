@@ -1,1 +1,1 @@
-# Bubble-Game .
+Welcome to the Bubble Game project! This is a fun and interactive web-based game built using HTML, CSS, and JavaScript. The objective of the game is to pop as many bubbles as you can within a given time limit. It's a great way to practice your reflexes and have fun at the same time!
